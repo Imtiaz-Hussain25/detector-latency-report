@@ -1,0 +1,15 @@
+[
+  {
+    "model": "RT-DETR",
+    "width": 640,
+    "height": 480,
+    "milliseconds": 230.4
+  },
+  {
+    "model": "RT-DETR",
+    "width": 640,
+    "height": 480,
+    "milliseconds": 217.1
+  }
+]
+
